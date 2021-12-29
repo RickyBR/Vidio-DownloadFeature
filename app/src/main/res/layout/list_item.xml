@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="108dp"
+    android:orientation="horizontal"
+    android:background="#FAFAFA"
+    android:layout_marginBottom="10dp">
+    <ImageView
+        android:layout_width="155dp"
+        android:layout_height="108dp"
+        android:src="@drawable/dummy_photo1"
+        />
+    <LinearLayout
+        style="@style/wrapc"
+        android:orientation="vertical"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="8dp">
+        <TextView
+            style="@style/main_text"
+            android:textSize="13sp"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Judul Film"
+            />
+        <TextView
+            style="@style/main_text"
+            android:textSize="13sp"
+            android:fontFamily="@font/poppins_light"
+            android:text="Genre Film"
+            android:layout_marginTop="4dp"
+            />
+    </LinearLayout>
+</LinearLayout>

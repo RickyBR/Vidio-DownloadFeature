@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/drawable/bg_btn_primary.xml" value="0.20236486486486485" />
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/drawable/bg_btn_secondary.xml" value="0.20236486486486485" />
         <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/font/poppins.xml" value="0.2608108108108108" />
-        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/font/poppins_bold.xml" value="0.15506756756756757" />
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/ASUS/Vidio-DownloadFeature/app/src/main/res/layout/list_item.xml" value="0.16" />
       </map>
     </option>
   </component>
